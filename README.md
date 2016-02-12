@@ -1,4 +1,4 @@
-# node-matrices
+# node-matrices [![Build Status](https://travis-ci.org/not-an-aardvark/node-matrices.svg?branch=master)](https://travis-ci.org/not-an-aardvark/node-matrices)
 
 node-matrices is a simple, lightweight matrix manipulation library supporting many common matrix operations.
 ## Installation
