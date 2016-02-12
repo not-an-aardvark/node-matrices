@@ -1,0 +1,32 @@
+{
+  "name": "node-matrices",
+  "version": "1.0.0",
+  "description": "A simple and lightweight matrix library",
+  "main": "matrix.js",
+  "scripts": {
+    "test": "eslint . && mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/not-an-aardvark/node-matrices.git"
+  },
+  "keywords": [
+    "matrix",
+    "matrices",
+    "math"
+  ],
+  "author": "not-an-aardvark",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/not-an-aardvark/node-matrices/issues"
+  },
+  "homepage": "https://github.com/not-an-aardvark/node-matrices#readme",
+  "dependencies": {
+    "lodash": "^4.3.0"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "eslint": "^1.10.3",
+    "mocha": "^2.4.5"
+  }
+}
